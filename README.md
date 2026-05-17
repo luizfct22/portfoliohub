@@ -1,5 +1,4 @@
 # PortfolioHUB - Meus Projetos e Estudos Acadêmicos
-
 Bem-vindo ao meu portfólio acadêmico e profissional. Este espaço foi desenvolvido como parte da Entrega Intermediária para centralizar minhas atividades, organizar meus códigos e apresentar meu progresso técnico.
 
 ## Objetivo do Espaço
@@ -14,4 +13,4 @@ Centralizar meus trabalhos acadêmicos e projetos pessoais para construir um his
 Acesse a página publicada deste portfólio: https://luizfct22.github.io/portfoliohub/
 
 ## Integração Profissional
- * LinkedIn: Meu Perfil Profissional
+ * LinkedIn: www.linkedin.com/in/Luizfct22
